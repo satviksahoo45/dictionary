@@ -11,3 +11,4 @@ dict = {
 # print(dict.values())
 pairs = (list(dict.items()))
 print(pairs[0])
+print(pairs[1])
